@@ -1,3 +1,3 @@
 # DataScienceWithPython-W1
-a= "Hello Python. It's me"
+a = "hello Python"
 print a
